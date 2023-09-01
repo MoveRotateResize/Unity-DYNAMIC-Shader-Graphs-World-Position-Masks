@@ -1,3 +1,4 @@
+# MoveRotateResize Presets...
 # DYNAMIC: ShaderGraphs- World PositionMasks
 # Sides:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
@@ -22,3 +23,7 @@ This Demo showcases my DYNAMIC: Script- Rotate Object
 # Change Logs
 - Version 1.0
     - First Release
+
+# Copyright
+- Published by: MoveRotateResize
+- Created by: Gregory Wells-Bruneau
