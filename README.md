@@ -1,5 +1,5 @@
 # MoveRotateResize Presets...
-# DYNAMIC: ShaderGraphs- World PositionMasks
+# DYNAMIC: ShaderGraphs- World Position Masks
 
 # Features
 This Demo showcases my DYNAMIC: Script- Rotate Object
